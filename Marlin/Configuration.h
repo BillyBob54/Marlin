@@ -1,5 +1,6 @@
 /**
  * Updated by Gary Selmman 7/18/2020
+ * Ender 3 with BTT E3 Mini V 2.0 
  * Marlin 3D Printer Firmware
  * Copyright (c) 2020 MarlinFirmware [https://github.com/MarlinFirmware/Marlin]
  *
